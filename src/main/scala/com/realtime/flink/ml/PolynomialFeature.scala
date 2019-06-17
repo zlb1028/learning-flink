@@ -5,9 +5,6 @@ import org.apache.flink.ml.common.{LabeledVector, ParameterMap}
 import org.apache.flink.ml.preprocessing.PolynomialFeatures
 import org.apache.flink.ml.regression.MultipleLinearRegression
 
-/**
-  * Created by zhanglibing on 2019/1/15
-  */
 object PolynomialFeature {
 
   def main(args: Array[String]): Unit = {
